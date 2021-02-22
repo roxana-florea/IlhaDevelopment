@@ -6,7 +6,7 @@ import axios from 'axios';
 export const loadPlans = () => {
   return dispatch => { //return function
     return axios                           // request plan
-      .get('http://localhost:5000/plans') //return post request response
+      .get('http://localhost:5000/plans') //return get request response
       //response
       .then((allPlansArray) => { //pass data in as a parameter, call the callback, dispatch the action. 
         dispatch({
@@ -78,9 +78,6 @@ export const deleteTask = (task) => {
       })
   }
 };
-
-
-
 
 
 

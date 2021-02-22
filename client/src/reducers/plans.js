@@ -1,5 +1,5 @@
 const plansReducer = (state = [], action) => {
-  const plansArr = [...state] ;
+  const plansArr = [...state];
 
   switch (action.type) {
     case 'LOAD_PLANS':
@@ -16,7 +16,7 @@ const plansReducer = (state = [], action) => {
       const uselessPlan = plansArr.filter(plan => plan._id === action.value.planId);
       uselessPlan[0].tasks.push(action.value);
       plansArr.filter(plan => plan._id !== action.value.planId).push(uselessPlan[0]);
-       
+
       return plansArr;
 
     case 'DELETE_TASK':
@@ -26,9 +26,9 @@ const plansReducer = (state = [], action) => {
       return plansArr;
 
     case 'UPDATE_TASK':
-      const planToBeUpdated = plansArr.filter(plan => plan._id === action.value.planId); 
+      const planToBeUpdated = plansArr.filter(plan => plan._id === action.value.planId);
       planToBeUpdated[0].tasks = planToBeUpdated[0].tasks.filter(task => task._id !== action.value._id);
-      
+
       planToBeUpdated[0].tasks.push(action.value)
       plansArr.filter(plan => plan._id !== action.value.planId).push(planToBeUpdated[0]);
 
