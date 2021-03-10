@@ -107,7 +107,7 @@ Victoria Kulinkovich - [@KulinkovichVA](https://github.com/KulinkovichVA) - emai
 
 Fabien Lallement - [@Befa222](https://github.com/Befa222) - email@email.com
 
-Aya Berdyeva - [@your_github](https://github.com/AyaDesigner)
+Aya Berdyeva - [@AyaDesigner](https://github.com/AyaDesigner)
 
 Roxana Florea - [@your_github](https://github.com/roxana-florea) - email@email.com
 
