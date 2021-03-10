@@ -67,6 +67,9 @@ Implementations:
 * [![Material-UI](https://img.shields.io/badge/-Material--UI-333333?logo=Material-UI&logoColor=blue&labelColor=212121)](https://material-ui.com/)
 * [![Styled-Components](https://img.shields.io/badge/-Styled--Components-8F5935?logo=styled-components&logoColor=pink&labelColor=393939)](https://material-ui.com/)
 * ![Redux](https://aleen42.github.io/badges/src/redux.svg)
+* ![React Router](https://aleen42.github.io/badges/src/router.svg)
+* ![Node.js](https://aleen42.github.io/badges/src/node.svg)
+
 
 
 <br/>
