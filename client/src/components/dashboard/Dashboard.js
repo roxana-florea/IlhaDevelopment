@@ -36,6 +36,7 @@ import Menu from '@material-ui/core/Menu';
 import VideoDialog from '../video-page/VideoDialog';
 import Badges from '../badges/Badges';
 
+
 import './Dashboard.css';
 
 const { signOut } = require('../../redux/actions/AuthActionCreators.js');
@@ -331,6 +332,7 @@ export default function MiniDrawer() {
             aria-controls="lock-menu"
             aria-label="when device is locked"
             onClick={handleClickListItem}
+            
           >
             {open ? (
               <div className={classes.userProfile}>
