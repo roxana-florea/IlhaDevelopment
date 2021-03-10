@@ -103,15 +103,15 @@ Node.JS required to install all dependencies.
    <!-- CONTACT -->
 ## Contact
 
-Alfred Castillo - [@aCastilloNL](https://github.com/aCastilloNL)
+Alfred Castillo - [@aCastilloNL](https://github.com/aCastilloNL) 
 
 Victoria Kulinkovich - [@KulinkovichVA](https://github.com/KulinkovichVA)
 
-Fabien Lallement - [@Befa222](https://github.com/Befa222)
+Fabien Lallement - [@Befa222](https://github.com/Befa222) 
 
 Aya Berdyeva - [@AyaDesigner](https://github.com/AyaDesigner)
 
-Roxana Florea - [@your_github](https://github.com/roxana-florea)
+Roxana Florea - [@roxana-florea](https://github.com/roxana-florea) 
 
 Project Link: [Ilha](https://loving-keller-6b53a6.netlify.app/Dashboard)
 
