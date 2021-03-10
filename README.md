@@ -68,7 +68,6 @@ This section should list any major frameworks that you built your project using.
 * [![React](https://aleen42.github.io/badges/src/react.svg)](https://reactjs.org)
 * [![Material-UI](https://img.shields.io/badge/-Material--UI-333333?logo=Material-UI&logoColor=blue&labelColor=212121)](https://material-ui.com/)
 * [![Styled-Components](https://img.shields.io/badge/-Styled--Components-8F5935?logo=styled-components&logoColor=pink&labelColor=393939)](https://material-ui.com/)
-* [![Redux](https://aleen42.github.io/badges/src/redux.svg)
 
 <br/>
 
@@ -108,11 +107,11 @@ Victoria Kulinkovich - [@KulinkovichVA](https://github.com/KulinkovichVA) - emai
 
 Fabien Lallement - [@Befa222](https://github.com/Befa222) - email@email.com
 
-Aya Berdyeva - [@your_github](https://github.com/roxana-florea) - email@email.com
+Aya Berdyeva - [@your_github](https://github.com/AyaDesigner)
 
-Roxana Florea - [@your_github](https://github.com/AyaDesigner) - email@email.com
+Roxana Florea - [@your_github](https://github.com/roxana-florea) - email@email.com
 
-Project Link: [Ilhia](https://loving-keller-6b53a6.netlify.app/Dashboard)
+Project Link: [Ilha](https://loving-keller-6b53a6.netlify.app/Dashboard)
 
 <br/>
 
