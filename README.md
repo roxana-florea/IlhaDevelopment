@@ -96,7 +96,7 @@ Node.JS required to install all dependencies.
    ```sh
    npm install
    ```
-4. Create your vars in the root .env file.
+4. Create your vars in the .env files (use .env.example inside api and client folders).
    ```JS
    const SECRET_TOKE = 'ENTER-A-SECRET-WORD';
 
