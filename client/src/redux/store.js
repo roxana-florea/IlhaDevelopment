@@ -1,6 +1,5 @@
 import { combineReducers, applyMiddleware, createStore, compose } from 'redux';
 import thunk from 'redux-thunk';
-
 import plansReducer from './reducers/PlansReducer';
 import authenticationReducer from './reducers/AuthReducer';
 
