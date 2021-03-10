@@ -68,6 +68,8 @@ This section should list any major frameworks that you built your project using.
 * [![React](https://aleen42.github.io/badges/src/react.svg)](https://reactjs.org)
 * [![Material-UI](https://img.shields.io/badge/-Material--UI-333333?logo=Material-UI&logoColor=blue&labelColor=212121)](https://material-ui.com/)
 * [![Styled-Components](https://img.shields.io/badge/-Styled--Components-8F5935?logo=styled-components&logoColor=pink&labelColor=393939)](https://material-ui.com/)
+* ![Redux](https://aleen42.github.io/badges/src/redux.svg)
+
 
 <br/>
 
