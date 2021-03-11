@@ -61,6 +61,8 @@ Implementations:
 - Live Video Streaming Environment/classrom for teachers-student interaction.
 - Recorded & Downloading Videos of a live streamed study session.
 
+Our team decided to re-create the majority of the official website in order to incorporate all additional features without affecting the premier product in conjunction with gaining insight into the full function of it’s technicality. As a result, specific frameworks were substituted by others, such as employing Redux in lieu of Context. 
+
 
 ### Built With
 * [![React](https://aleen42.github.io/badges/src/react.svg)](https://reactjs.org)
@@ -87,16 +89,15 @@ Node.JS required to install all dependencies.
 
 ### Installation
 
-1. UPDATE OR REMOVE THIS NUMBER.
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/aCastilloNL/IlhaDevelopment.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Create your vars in the .env files (use .env.example inside api and client folders).
+3. Create your vars in the .env files (use .env.example inside api and client folders).
    ```JS
    const SECRET_TOKE = 'ENTER-A-SECRET-WORD';
 
