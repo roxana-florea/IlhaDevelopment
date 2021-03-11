@@ -57,7 +57,7 @@ Implementations:
 - Registration Form to create an account.
 - Multimedia Dashboard containing the user's profile and access to the website's essentials.
 - Realtime Analytics Graph charting the amount of time spent learning for ease of tracking personal progress. 
-- Studies Plan to allow the student to create personal tasks and schedules.
+- Studies Plan to allow for the creation of personal tasks and schedules.
 - Live Video Streaming Environment/classrom for teachers-student interaction.
 - Recorded & Downloading Videos of a live streamed study session.
 
