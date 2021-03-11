@@ -26,13 +26,17 @@ const useVideo = (roomId) => {
   };
 
   const createPeer = (id) => {
-    return process.env.REACT_APP_PEER_USE_CLOUD
+    let peerOptions = {
+      host: process.env.REACT_APP_PEER_HOST,
+      path: process.env.REACT_APP_PEER_PATH,
+      secure: process.env.REACT_APP_PEER_SECURE,
+    };
+    if (process.env.REACT_APP_PEER_PORT) {
+      peerOptions['port'] = process.env.REACT_APP_PEER_PORT;
+    }
+    return process.env.REACT_APP_PEER_USE_CLOUD === 'true'
       ? new Peer(id)
-      : new Peer(id, {
-          host: process.env.REACT_APP_PEER_HOST,
-          port: process.env.REACT_APP_PEER_PORT,
-          path: process.env.REACT_APP_PEER_PATH,
-        });
+      : new Peer(id, peerOptions);
   };
 
   const start = () => {
